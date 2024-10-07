@@ -1,0 +1,132 @@
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.staticwebassets.runtime.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.exe
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.deps.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.runtimeconfig.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfo.cs
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cache
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cs
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.RazorPage1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPage1.props
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPage1.props
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPage1.props
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\bundle\RazorPage1.styles.css
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\projectbundle\RazorPage1.bundle.scp.css
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\refint\RazorPage1.dll
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.genruntimeconfig.cache
+C:\Users\migue\Desktop\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\ref\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.staticwebassets.runtime.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.exe
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.deps.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.runtimeconfig.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cache
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.RazorPage1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPage1.props
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPage1.props
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPage1.props
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\bundle\RazorPage1.styles.css
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\projectbundle\RazorPage1.bundle.scp.css
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\refint\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.genruntimeconfig.cache
+C:\Users\migue\Desktop\2GS\AccesoDatos\RazorPage1\RazorPage1\obj\Debug\net6.0\ref\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.staticwebassets.runtime.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.exe
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.deps.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.runtimeconfig.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.RazorPage1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPage1.props
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPage1.props
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPage1.props
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\bundle\RazorPage1.styles.css
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\projectbundle\RazorPage1.bundle.scp.css
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\refint\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.genruntimeconfig.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\ref\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Services.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.Up2Date
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.RazorAssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\refint\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\appsettings.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.staticwebassets.runtime.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.exe
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.deps.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.runtimeconfig.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPage1.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\bin\Debug\net6.0\RazorPages.Services.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.RazorPage1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.build.RazorPage1.props
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RazorPage1.props
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RazorPage1.props
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\bundle\RazorPage1.styles.css
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\scopedcss\projectbundle\RazorPage1.bundle.scp.css
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.csproj.Up2Date
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\RazorPage1.genruntimeconfig.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPage1\obj\Debug\net6.0\ref\RazorPage1.dll

@@ -1,0 +1,22 @@
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.deps.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\refint\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\ref\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.deps.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\refint\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Modelos\obj\Debug\net6.0\ref\RazorPages.Modelos.dll

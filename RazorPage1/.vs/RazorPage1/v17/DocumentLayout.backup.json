@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPage1\\Pages\\Alumnos\\Edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPage1\\Pages\\Alumnos\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPage1\\Pages\\Alumnos\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPages.Services\\IAlumnoRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPages.Services\\IAlumnoRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPages.Services\\AlumnoRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPages.Services\\AlumnoRepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPage1\\Pages\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPage1\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage1\\Pages\\Alumnos\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPage1\\Pages\\Alumnos\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:21:18.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPage1\\Pages\\Alumnos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Edit.cshtml",
+              "RelativeToolTip": "RazorPage1\\Pages\\Alumnos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:21:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPages.Services\\AlumnoRepositorio.cs",
+              "RelativeDocumentMoniker": "RazorPages.Services\\AlumnoRepositorio.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPages.Services\\AlumnoRepositorio.cs",
+              "RelativeToolTip": "RazorPages.Services\\AlumnoRepositorio.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:20:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAlumnoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPages.Services\\IAlumnoRepositorio.cs",
+              "RelativeDocumentMoniker": "RazorPages.Services\\IAlumnoRepositorio.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPages.Services\\IAlumnoRepositorio.cs",
+              "RelativeToolTip": "RazorPages.Services\\IAlumnoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:18:15.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage1\\Pages\\Alumnos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Alumnos\\Index.cshtml",
+              "RelativeToolTip": "RazorPage1\\Pages\\Alumnos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:16:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPage1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPage1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:16:13.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPage1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\2GS\\AD\\RazorPage1\\RazorPage1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPage1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:16:07.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

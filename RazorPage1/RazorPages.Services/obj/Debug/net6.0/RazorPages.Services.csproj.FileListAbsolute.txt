@@ -1,0 +1,30 @@
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Services.deps.json
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Services.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPag.CA0683F3.Up2Date
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\refint\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.pdb
+C:\Users\migue\Desktop\2GS\Acceso Datos (Agus)\RazorPage1\RazorPages.Services\obj\Debug\net6.0\ref\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Services.deps.json
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Services.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Modelos.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\bin\Debug\net6.0\RazorPages.Modelos.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.AssemblyInfo.cs
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPag.CA0683F3.Up2Date
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\refint\RazorPages.Services.dll
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\RazorPages.Services.pdb
+C:\Users\migue\Desktop\2GS\AD\RazorPage1\RazorPages.Services\obj\Debug\net6.0\ref\RazorPages.Services.dll
